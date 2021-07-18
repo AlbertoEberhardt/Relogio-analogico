@@ -17,9 +17,10 @@
     margin: 2.5px auto auto auto;
     
 }
+/* posição dos números do relógio. */
 #hora12{
     top: 8px;
-    left: 120.5px;/*nao mudar*/
+    left: 120.5px;
 }
 #hora1{
     top: 25px;
@@ -31,7 +32,7 @@
 }
 #hora3{
     left: 231px;
-    top: 120.5px/*nao mudar*/
+    top: 120.5px
 }
 #hora4{
     top: 175px;
@@ -43,7 +44,7 @@
 }
 #hora6{
     top: 232px;
-    left: 120.5px;/*nao mudar*/
+    left: 120.5px;
 }
 #hora7{
     top: 217px;
@@ -54,7 +55,7 @@
     left: 23px;
 }
 #hora9{
-    top: 120.5px;/*nao mudar*/
+    top: 120.5px;
 }
 #hora10{
     top: 67px;
